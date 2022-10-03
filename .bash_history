@@ -63,3 +63,41 @@ copilot app delete imuyhbtrdx
 copilot app delete lasttime
 copilot app delete pllzzzz
 copilot app delete prooo
+sudo aot update
+sudo apt update
+sudo curl -Lo /usr/local/bin/copilot https://github.com/aws/copilot-cli/releases/download/v1.21.0/copilot-linux-v1.21.0 && sudo chmod +x /usr/local/bin/copilot && copilot –help
+copilot --version
+ls
+nano Dockerfile
+nano index.html
+copilot init
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/priyashukla1411/ccooppiilloott.git
+git push -u origin main
+git init
+git add .
+add and commit first
+git add and commit first
+git push -u origin main
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/priyashukla1411/ccooppiilloott.git
+git push -u origin main
+ls
+git init -b main
+git init && git symbolic-ref HEAD refs/heads/main
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/priyashukla1411/ccooppiilloott.git
+git remote add origin https://github.com/priyashukla1411/wr.git
+git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
+git remote -v
+git push origin main
+git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
+git branch -M main
+git push -u origin main
