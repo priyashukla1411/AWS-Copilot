@@ -115,3 +115,12 @@ git add .
 git commit -m “msg”
 git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
 git push -u origin main
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
+git push -u origin master
+git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
+git branch -M master
+git push -u origin master
