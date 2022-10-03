@@ -101,3 +101,17 @@ git push origin main
 git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
 git branch -M main
 git push -u origin main
+git clone https://github.com/priyashukla1411/aws-cooppilot.git
+ls
+cd aws-cooppilot/
+ls
+cd ..
+rm aws-cooppilot/
+rm -r  aws-cooppilot/
+ls
+git init
+git config --global --add safe.directory /home/ubuntu
+git add .
+git commit -m “msg”
+git remote add origin https://github.com/priyashukla1411/aws-cooppilot.git
+git push -u origin main
